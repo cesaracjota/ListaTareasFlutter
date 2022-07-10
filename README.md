@@ -1,4 +1,4 @@
-# todo_list_app
+# ListTareas Flutter y Firestore
 
 A new Flutter project.
 
